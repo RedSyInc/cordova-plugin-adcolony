@@ -19,8 +19,8 @@ public class AdColonyPlugin extends CordovaPlugin {
 
 	private static CordovaWebView gWebView;
 
-	private String APP_ID = "app185a7e71e1714831a49ec7"; // Demo Android APP_ID
-	private String ZONE_ID = "vz1fd5a8b2bf6841a0a4b826"; // Demo Android ZONE_ID
+	private String APP_ID = "app1c4cdab0a4fa422385"; // Demo Android APP_ID
+	private String ZONE_ID = "vzb4ec82f9bd434c09bc"; // Demo Android ZONE_ID
 
 	private Boolean rewardCallBackReady = false;
 	private String rewardCallBack = "AdColony.onRewardReceived";
